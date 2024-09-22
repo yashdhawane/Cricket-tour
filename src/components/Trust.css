@@ -1,0 +1,24 @@
+.trusted-by {
+    background-color: #f8f9fa;
+  }
+  
+  .trusted-by h2 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .trusted-by p.lead {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .trusted-by img {
+    max-width: 100%;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+  }
+  
+  .trusted-by img:hover {
+    filter: none;
+  }
+  
